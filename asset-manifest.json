@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Web-Practice/client/static/css/main.ab92beb4.css",
-    "main.js": "/Web-Practice/client/static/js/main.accc133a.js",
-    "static/js/453.419a5d54.chunk.js": "/Web-Practice/client/static/js/453.419a5d54.chunk.js",
-    "static/media/cactus_img.jpg": "/Web-Practice/client/static/media/cactus_img.60c0c8081cf6dd72bf07.jpg",
-    "index.html": "/Web-Practice/client/index.html",
-    "main.ab92beb4.css.map": "/Web-Practice/client/static/css/main.ab92beb4.css.map",
-    "main.accc133a.js.map": "/Web-Practice/client/static/js/main.accc133a.js.map",
-    "453.419a5d54.chunk.js.map": "/Web-Practice/client/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/Web-Practice/static/css/main.ab92beb4.css",
+    "main.js": "/Web-Practice/static/js/main.624e8d2c.js",
+    "static/js/453.419a5d54.chunk.js": "/Web-Practice/static/js/453.419a5d54.chunk.js",
+    "static/media/cactus_img.jpg": "/Web-Practice/static/media/cactus_img.60c0c8081cf6dd72bf07.jpg",
+    "index.html": "/Web-Practice/index.html",
+    "main.ab92beb4.css.map": "/Web-Practice/static/css/main.ab92beb4.css.map",
+    "main.624e8d2c.js.map": "/Web-Practice/static/js/main.624e8d2c.js.map",
+    "453.419a5d54.chunk.js.map": "/Web-Practice/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab92beb4.css",
-    "static/js/main.accc133a.js"
+    "static/js/main.624e8d2c.js"
   ]
 }
